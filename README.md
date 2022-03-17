@@ -14,7 +14,7 @@ Full stack web developer from stockton, CA
 ### :books: Learning:
   - GreenSock :green_book:, React Native :iphone:, Python :snake:
 
-### Connect with me:
+### :mailbox: Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/josefmercado345/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/josefmercado345/#gh-dark-mode-only)
 &nbsp;&nbsp;
