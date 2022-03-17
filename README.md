@@ -3,16 +3,16 @@
 Full stack web developer from stockton, CA
 
 :computer: Techologies: 
-  - HTML5, CSS, JavaScript, React, Typescript
+  - HTML5, CSS, JavaScript, React
   - Redux, Context API
-  - Tailwind, Semantic UI, Material UI, Bootstrap, Reactstrap, Styled Components, GreenSock / GSAP
-  - Handlebars
+  - Tailwind, Semantic UI, Material UI, Bootstrap, Reactstrap, Styled Components
   - Axios, Fetch API
   - React Testing Library, Cypress, Jest, Yup
   - Responsive Web Design, Gatsby, Netlify, Vercel
-  - Node.js, Express, Knex, Sequelize, Helmet, CORS, REST, Heroku
-  - SQL, PostGres, Docker
+  - Node.js, Express, Knex, Sequelize, Helmet, CORS, REST, Heroku, SQL
 
+:books: Learning:
+  - GreenSock :green_book:, React Native :iphone:, Python :snake:
 <!--
 **jose-mercado/jose-mercado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
