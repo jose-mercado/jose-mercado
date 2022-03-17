@@ -20,6 +20,8 @@ Full stack web developer from stockton, CA
 &nbsp;&nbsp;
 
 [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-mercado)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-mercado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jose-mercado/jose-mercado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
