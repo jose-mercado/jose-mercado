@@ -1,9 +1,17 @@
-### Hello! I'm Jose Mercado :smiley:
+### Hello! I'm Jose Mercado :smile:
 
 Full stack web developer from stockton, CA
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
+:computer: Techologies: 
+  - HTML5, CSS, JavaScript, React, Typescript
+  - Redux, Context API
+  - Tailwind, Semantic UI, Material UI, Bootstrap, Reactstrap, Styled Components, GreenSock / GSAP
+  - Handlebars
+  - Axios, Fetch API
+  - React Testing Library, Cypress, Jest, Yup
+  - Responsive Web Design, Gatsby, Netlify, Vercel
+  - Node.js, Express, Knex, Sequelize, Helmet, CORS, REST, Heroku
+  - SQL, PostGres, Docker
 
 <!--
 **jose-mercado/jose-mercado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
