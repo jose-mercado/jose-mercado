@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! I'm Jose Mercado :smiley:
+
+Full stack web developer from stockton, CA
+
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 
