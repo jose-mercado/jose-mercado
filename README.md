@@ -1,6 +1,6 @@
 ### Hello! I'm Jose Mercado :smile:
 
-Full stack web developer from stockton, CA
+Full-Stack Web Developer from Stockton, CA
 
 ### :computer: Techologies: 
   - HTML5, CSS, JavaScript, React
